@@ -1,0 +1,57 @@
+
+input {
+    
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+.form{
+    border: 3px solid ;
+    padding: 20px;
+    box-shadow: 0 2px 4px #8b597b;
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgb(248, 247, 243);
+
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  background: white;
+  box-sizing: border-box;
+  box-shadow: 0px 15px 15px 15px rgba(15, 15, 15, 0.6);
+  border-radius: 50px;
+  
+}
+.email{
+  margin: 0 0 30px;
+  padding: 0;
+  color: #971e1e;
+  text-align: center;
+  
+}
+body{
+  background-color: #04421D;
+
+}
